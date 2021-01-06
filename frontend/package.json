@@ -14,7 +14,7 @@
     "@testing-library/user-event": "^7.2.1",
     "@wojtekmaj/react-daterange-picker": "^2.5.0",
     "apexcharts": "^3.17.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "date-fns": "^2.11.0",
     "fusioncharts": "^3.15.1-sr.1",
